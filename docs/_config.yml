@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+logo: images/phase3.png
+title: Thesis 2021 Alaa Elshamouty
+description: Contains images and interactive plots for my thesis.
