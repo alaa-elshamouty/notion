@@ -6,4 +6,4 @@
 - Uncertainty Quantification Images
 - Uncertainty  Quantification Plots
 - [Noise Images](noise_images.md)
-- [Interactive Plots](noise_plots.md)
+- [Interactive Plots](interactive_plots.md)
