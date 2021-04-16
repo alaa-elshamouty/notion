@@ -1,9 +1,9 @@
-# <center> Big Data 2021 </center>
+# <center> Thesis 2021 </center>
 ## <center>  Alaa Elshamouty s1020320 </center>
 
 ---
 ### Table of Contents
-- How to [Setup Docker on MacOS](setup.md)
-- [About me](AboutMe.md)
-- [Map Reducer](MapReducer.md)
-- [Hello spark](HelloSpark.md)
+- Uncertainty Quantification Images
+- Uncertainty  Quantification Plots
+- [Noise Images](noise_images.md)
+- [Noise Plots](noise_plots.md)
